@@ -1,0 +1,23 @@
+# Document Verification System
+
+This project uses OCR, Deep Learning, and NLP techniques to verify documents.
+
+## 🚀 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/SIH1652-DocVerification.git
+   cd SIH1652-DocVerification
+Install dependencies:
+
+pip install -r requirements.txt
+
+
+Run Streamlit app:
+
+streamlit run app.py
+
+
+OR run Flask app:
+
+python app.py
